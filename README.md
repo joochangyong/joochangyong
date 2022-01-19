@@ -10,7 +10,7 @@
 
 <div>
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joochangyong&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joochangyong&layout=compact&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joochangyong&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joochangyong&langs_count=100&layout=compact&theme=dracula)](https://github.com/joochangyong/joochangyong)
   
 </div>
 
